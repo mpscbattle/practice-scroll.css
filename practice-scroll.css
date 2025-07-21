@@ -93,9 +93,10 @@ body {
   border: none;
   cursor: pointer;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
   display: block;
   margin: 10px auto;
+  margin-top: 15px;
   transition: background-color 0.3s ease;
 }
 .submit-test-btn {
