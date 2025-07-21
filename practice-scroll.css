@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #f0f0f0;
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
 }
@@ -18,7 +18,7 @@ body {
 }
 .practice-header h2 {
     margin: 0;
-    font-size: 18px;
+    font-size: 20px;
 }
 .practice-container {
     max-width: 100%;
@@ -50,7 +50,7 @@ body {
 .question-title {
     font-size: 14px;
     font-weight: bold;
-    color: #0000ff;
+    color: #009999;
 }
 .question-text {
   font-size: 16px;
@@ -113,8 +113,9 @@ body {
 .answer-box, .explanation-box {
   background-color: #f2f2f2;
   padding: 10px;
-  border-radius: 0px;
+  border-radius: 5px;
   margin-top: 10px;
+  margin-bottom: 40px;
   display: none;
 }
 .answer-text {
@@ -158,11 +159,11 @@ body {
     color: #262626;
 }
 .results-item span {
-    color: #000080;
+    color: #009999;
 }
 .results-message {
-    font-size: 15px;
+    font-size: 18px;
     font-weight: bold;
-    color: #00994d;
+    color: #009999;
     margin: 15px 0;
 }
