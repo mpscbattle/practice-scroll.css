@@ -50,7 +50,7 @@ body {
 .question-title {
     font-size: 14px;
     font-weight: bold;
-    color: #009999;
+    color: #008080;
 }
 .question-text {
   font-size: 16px;
@@ -59,7 +59,7 @@ body {
   margin-top: 14px;
 }
 .options .option {
-  font-size: 14px;
+  font-size: 15px;
   padding: 8px;
   margin: 5px 0;
   border: 1px solid #cccccc;
@@ -95,6 +95,8 @@ body {
   font-weight: bold;
   font-size: 15px;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 15px;
   margin-top: 15px;
   transition: background-color 0.3s ease;
