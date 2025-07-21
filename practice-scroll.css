@@ -59,7 +59,7 @@ body {
   margin-top: 14px;
 }
 .options .option {
-  font-size: 15px;
+  font-size: 14px;
   padding: 8px;
   margin: 5px 0;
   border: 1px solid #cccccc;
@@ -93,7 +93,7 @@ body {
   border: none;
   cursor: pointer;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 14px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -114,7 +114,7 @@ body {
   background-color: #5a6268;
 }
 .answer-box, .explanation-box {
-  background-color: #f2f2f2;
+  background-color: #e6fff2;
   padding: 10px;
   border-radius: 5px;
   margin-top: 10px;
